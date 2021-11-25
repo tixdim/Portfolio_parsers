@@ -1,0 +1,34 @@
+[
+    {
+        "title": "CROSS HIKE MID GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/33310/",
+        "price_base": 15490,
+        "price_sale": 10790,
+        "discount_percent": 30
+    },
+    {
+        "title": "SONIC 4 CONFIDENCE",
+        "category": "Бег по асфальту",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/34547/",
+        "price_base": 10990,
+        "price_sale": 7690,
+        "discount_percent": 30
+    },
+    {
+        "title": "SENSE FLOW 2",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/56477/",
+        "price_base": 9990,
+        "price_sale": 4990,
+        "discount_percent": 50
+    },
+    {
+        "title": "XA WILD",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/4240/",
+        "price_base": 11490,
+        "price_sale": 7990,
+        "discount_percent": 30
+    }
+]
