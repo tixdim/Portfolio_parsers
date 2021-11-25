@@ -1,0 +1,92 @@
+{
+    "526607": {
+        "article_date_timestamp": 1637086530.0,
+        "article_title": "ЛК предупредила о мошеннической схеме обмана инвесторов",
+        "article_url": "https://www.securitylab.ru/news/526607.php",
+        "article_desc": "Аферисты в Сети все чаще притворяются представителями крупных российских банков и от их имени предлагают вложиться в ценные бумаги."
+    },
+    "526605": {
+        "article_date_timestamp": 1637070369.0,
+        "article_title": "Cloudflare нейтрализовала мощную многовекторную DDoS-атаку",
+        "article_url": "https://www.securitylab.ru/news/526605.php",
+        "article_desc": "﻿Мощность кибератаки достигла почти 2 Тбит/с."
+    },
+    "526604": {
+        "article_date_timestamp": 1637067621.0,
+        "article_title": "Хакеры Moses Staff атакуют израильские организации с целью причинения ущерба",
+        "article_url": "https://www.securitylab.ru/news/526604.php",
+        "article_desc": "Злоумышленники похищают и шифруют данные организаций, не требуя выкуп."
+    },
+    "526601": {
+        "article_date_timestamp": 1637063893.0,
+        "article_title": "После долгого отсутствия ботнет Emotet снова начал проявлять признаки жизни",
+        "article_url": "https://www.securitylab.ru/news/526601.php",
+        "article_desc": "В настоящее время уже 246 устройств используется новым ботнетом Emotet в качестве C&C-серверов."
+    },
+    "526585": {
+        "article_date_timestamp": 1637061662.0,
+        "article_title": "Британские геймеры плюют на безопасность",
+        "article_url": "https://www.securitylab.ru/news/526585.php",
+        "article_desc": "Геймеры в Великобритании повторно используют пароли, раскрывают персональные данные, устанавливают \"левые\" аддоны и пр."
+    },
+    "526577": {
+        "article_date_timestamp": 1637054508.0,
+        "article_title": "Гарри Каспаров: у США нет стратегии для кибервойны",
+        "article_url": "https://www.securitylab.ru/news/526577.php",
+        "article_desc": "По словам Каспарова, Америка должна быть более жесткой по отношению к киберпреступникам."
+    },
+    "526572": {
+        "article_date_timestamp": 1637051731.0,
+        "article_title": "Эксперты обошли главное препятствие на пути создания квантового компьютера",
+        "article_url": "https://www.securitylab.ru/news/526572.php",
+        "article_desc": "Одним из препятствий в создании квантового компьютера является невозможность одновременно управлять множеством кубитов."
+    },
+    "526571": {
+        "article_date_timestamp": 1637050544.0,
+        "article_title": "Представлена новая атака с отслеживанием цифрового отпечатка браузера Tor",
+        "article_url": "https://www.securitylab.ru/news/526571.php",
+        "article_desc": "Атакующий может определить посещаемый пользователем сайт, если интересуется определенной выборкой сайтов."
+    },
+    "526569": {
+        "article_date_timestamp": 1637048714.0,
+        "article_title": "В России хотят добавить фотографии в сертификаты о вакцинации",
+        "article_url": "https://www.securitylab.ru/news/526569.php",
+        "article_desc": "В Минцифры предложили добавить к сертификату о вакцинации от COVID-19 фотографии владельцев."
+    },
+    "526568": {
+        "article_date_timestamp": 1637048279.0,
+        "article_title": "Прокуратура штата Огайо подала в суд на Meta за обман о влиянии на детей",
+        "article_url": "https://www.securitylab.ru/news/526568.php",
+        "article_desc": "Прокуратура американского штата Огайо подала судебный иск против компании Meta (бывший Facebook) из-за алгоритмов ее работы в отношении детей."
+    },
+    "526570": {
+        "article_date_timestamp": 1637046043.0,
+        "article_title": "Новый вариант Rowhammer обходит механизмы защиты DDR4",
+        "article_url": "https://www.securitylab.ru/news/526570.php",
+        "article_desc": "Атака Blacksmith демонстрирует, что современные модули DDR4 все еще уязвимы к Rowhammer."
+    },
+    "526567": {
+        "article_date_timestamp": 1637043114.0,
+        "article_title": "Эксперты из Forescout обнаружили 97 уязвимостей в стеках TCP/IP в рамках проекта Memoria",
+        "article_url": "https://www.securitylab.ru/news/526567.php",
+        "article_desc": "Уязвимости затрагивают 14 стеков TCP/IP, включая CycloneTCP, FNET, FreeBSD, IPnet, MPLAB Net, NetX, NicheStack, и пр."
+    },
+    "526566": {
+        "article_date_timestamp": 1637040609.0,
+        "article_title": "Безопасность Windows 10 ждет катастрофа, что предпримет Microsoft?",
+        "article_url": "https://www.securitylab.ru/news/526566.php",
+        "article_desc": "После окончания срока поддержки Windows 10 в 2025 году огромное количество ПК не смогут обновиться до Windows 11."
+    },
+    "526565": {
+        "article_date_timestamp": 1637038092.0,
+        "article_title": "Axoft Security Talk. Экспертно о безопасном. 25 ноября 2021 г.",
+        "article_url": "https://www.securitylab.ru/news/526565.php",
+        "article_desc": "Компания Axoft приглашает вас принять участие в online-встрече Security Talk, которая состоится 25 ноября в 10:00 (мск)."
+    },
+    "526555": {
+        "article_date_timestamp": 1637000741.0,
+        "article_title": "19 миллионов корпоративных sim-карт заблокируют с декабря",
+        "article_url": "https://www.securitylab.ru/news/526555.php",
+        "article_desc": "Это связано с тем, что клиенты мобильных операторов не сообщили о конечных пользователях мобильных номеров"
+    }
+}
